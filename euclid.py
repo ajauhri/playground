@@ -3,7 +3,6 @@ import sys
 
 def gcd(a,b):
     while b>0:
-        print(a,b)
         r = a%b
         a = b
         b = r
