@@ -35,7 +35,7 @@ function [model] = nb_train( Xtrain, Ytrain, attributes)
             model.sigma = [model.sigma; sigma];
             % for class 2
             mu = mean(Xtrain(class_2, i));
-            sigma = var(Xtrain(class_1, i));
+            sigma = var(Xtrain(class_2, i));
             model.mu = [model.mu; mu];
             model.sigma = [model.sigma; sigma];    
         end
