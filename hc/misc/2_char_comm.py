@@ -18,7 +18,7 @@ def comm_seq(str):
     else:
         curr_length += 1
         dis_char_1 = lst_char_seq = str[0]
-        for i in xrange(1, str_len):
+        for i in range(1, str_len):
             if str[i] == dis_char_1:
                 curr_length += 1
 
@@ -43,4 +43,4 @@ def comm_seq(str):
         return max_length
 
 if __name__ == "__main__":
-    print comm_seq(sys.argv[1])
+    print(comm_seq(sys.argv[1]))

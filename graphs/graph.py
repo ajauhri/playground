@@ -13,6 +13,34 @@ class Graph:
         self.lowlink = 0    #The vertex with the lowest num value reachable from u
         self.num = 0        #Sequence in which DFS traverses each node
 
+def count(start):
+    if not start.visited:
+        start.visited = True
+    else:
+        return 0
+    
+    n = 1
+    for edge in start.edges:
+        n += count(edge)
+
+    return n
+
+def count_iter(start):
+    parents = [start]
+    children = []
+    count = 0
+    while parents:
+        for i in range(0, len(parents)):
+            for child in parents[i].edges:
+                if not child.visited:
+                    children.append(child)
+                    count += 1
+                    child.visited = True
+        parents = children
+        children = []
+
+    return count
+
 def construct(file, s=1): 
     """Constructs a Graph using the adjaceny matrix given in the file
 
@@ -48,5 +76,6 @@ def dfs(start):
 if __name__ == "__main__":
     s = construct(sys.argv[1])
     #dfs(s)
-    strong.strong(s)
+    #strong.strong(s)
+    print(count(s))
     #print biconnected.bic(s,None)
