@@ -1,6 +1,9 @@
 #! /usr/bin/env python
 
 # Polynomial approximation using least squares
+# Refer to EE263 by Stephen Boyd; Lecture 6 - Least Square Applications
+# Using Taylor series one would find a very good local fit but to find a global good match least squares is better
+# Usage: ./poly_approx_ls.py
 
 from __future__ import division
 import numpy as np
