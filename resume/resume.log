@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.10.26)  3 NOV 2013 01:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.11)  21 NOV 2013 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,63 +397,63 @@ Package marginnote Info: right page because not two side mode on input line 45.
 Package marginnote Info: xpos seems to be 114.46576pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 45.
 Package marginnote Info: Margin note 1.4 is on absolute page 1
-(marginnote)              on input line 48.
-Package marginnote Info: right page because not two side mode on input line 48.
+(marginnote)              on input line 49.
+Package marginnote Info: right page because not two side mode on input line 49.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 48.
+(marginnote)             \marginnoteleftadjust ignored on input line 49.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--51
 [] 
  []
 
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--51
 [] 
  []
 
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--51
 [] 
  []
 
 Package marginnote Info: Margin note 1.5 is on absolute page 1
-(marginnote)              on input line 55.
-Package marginnote Info: right page because not two side mode on input line 55.
+(marginnote)              on input line 56.
+Package marginnote Info: right page because not two side mode on input line 56.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 55.
+(marginnote)             \marginnoteleftadjust ignored on input line 56.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 54--57
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 55--58
 [] 
  []
 
 Package marginnote Info: Margin note 1.6 is on absolute page 1
-(marginnote)              on input line 68.
-Package marginnote Info: right page because not two side mode on input line 68.
+(marginnote)              on input line 69.
+Package marginnote Info: right page because not two side mode on input line 69.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 68.
+(marginnote)             \marginnoteleftadjust ignored on input line 69.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 67--70
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 68--71
 [] 
  []
 
 Package marginnote Info: Margin note 1.7 is on absolute page 1
-(marginnote)              on input line 82.
-Package marginnote Info: right page because not two side mode on input line 82.
+(marginnote)              on input line 83.
+Package marginnote Info: right page because not two side mode on input line 83.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 82.
+(marginnote)             \marginnoteleftadjust ignored on input line 83.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 80--84
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 81--85
 [] 
  []
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.97 	\item D
+l.98 	\item D
              eveloped evolutionary algorithms to represent graphs aesthetica...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -461,19 +461,19 @@ look up `weird error' in the index to The TeXbook.)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 97.
+(hyperref)                removing `\@gooble' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 97.
+(hyperref)                removing `\c@page' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 97.
+(hyperref)                removing `\@gooble' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 97.
+(hyperref)                removing `\c@page' on input line 98.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -482,43 +482,43 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Package marginnote Info: Margin note 2.1 is on absolute page 2
-(marginnote)              on input line 125.
-Package marginnote Info: right page because not two side mode on input line 125
+(marginnote)              on input line 126.
+Package marginnote Info: right page because not two side mode on input line 126
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 125.
+(marginnote)             \marginnoteleftadjust ignored on input line 126.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 123--130
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 124--131
 [] 
  []
 
 Package marginnote Info: Margin note 2.2 is on absolute page 2
-(marginnote)              on input line 133.
-Package marginnote Info: right page because not two side mode on input line 133
+(marginnote)              on input line 134.
+Package marginnote Info: right page because not two side mode on input line 134
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 133.
+(marginnote)             \marginnoteleftadjust ignored on input line 134.
 Package marginnote Info: Margin note 2.3 is on absolute page 2
-(marginnote)              on input line 140.
-Package marginnote Info: right page because not two side mode on input line 140
+(marginnote)              on input line 141.
+Package marginnote Info: right page because not two side mode on input line 141
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 140.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+(marginnote)             \marginnoteleftadjust ignored on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 131--145
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 132--146
 [] 
  []
 
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 131--145
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 132--146
 [] 
  []
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.145 \end{document}
+l.146 \end{document}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -526,33 +526,33 @@ look up `weird error' in the index to The TeXbook.)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 145.
+(hyperref)                removing `\@gooble' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 145.
+(hyperref)                removing `\c@page' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 145.
+(hyperref)                removing `\@gooble' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 145.
+(hyperref)                removing `\c@page' on input line 146.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 \end{document}
+l.146 \end{document}
                      [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
  ) 
 Here is how much of TeX's memory you used:
  7326 strings out of 495031
