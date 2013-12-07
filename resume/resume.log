@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.11)  5 DEC 2013 15:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2013.11.11)  5 DEC 2013 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -32,7 +32,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
@@ -107,7 +107,7 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -174,12 +174,20 @@ LaTeX Info: Redefining \pageref on input line 6369.
 \c@Hfootnote=\count98
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver (default): hdvips.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count99
-\c@bookmark@seq@number=\count100
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks18
+\pdf@box=\box28
+\pdf@toks=\toks19
+\pdf@defaulttoks=\toks20
+\HyField@AnnotCount=\count99
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -187,7 +195,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
-)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
@@ -195,12 +203,12 @@ Package: cite 2010/09/10  v 5.3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks18
-\MT@count=\count101
+\MT@toks=\toks21
+\MT@count=\count102
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen121
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count102
+\MT@listname@count=\count103
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -216,7 +224,7 @@ File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
 (./multibib.sty
 Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
-\mb@biblabelwidth=\count103
+\mb@biblabelwidth=\count104
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2013/05/16 v3.9f The Babel package
 
@@ -225,7 +233,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2013/05/16 v3.9f Babel common definitions
-\babel@savecnt=\count104
+\babel@savecnt=\count105
 \U@D=\dimen122
 )
 \l@british = a dialect from \language\l@english 
@@ -236,7 +244,7 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
 Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
-\c@mn@abspage=\count105
+\c@mn@abspage=\count106
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -248,8 +256,8 @@ Package: textpos 2012/11/13 1.7i, absolute positioning of text on the page
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
-\TP@textbox=\box28
-\TP@holdbox=\box29
+\TP@textbox=\box29
+\TP@holdbox=\box30
 \TPHorizModule=\dimen123
 \TPVertModule=\dimen124
 \TP@margin=\dimen125
@@ -259,7 +267,7 @@ Grid set 16 x 16 = 37.34424pt x 52.81541pt
 \TPboxrulesize=\dimen127
 \TP@ox=\dimen128
 \TP@oy=\dimen129
-\TP@tbargs=\toks19
+\TP@tbargs=\toks22
 \TP@prevdepth=\dimen130
 TextBlockOrigin set to 0pt x 0pt
 ) (./resume.aux)
@@ -281,9 +289,9 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: dvips
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(21.68121pt,0.0pt)
@@ -314,7 +322,7 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 22.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -322,7 +330,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count106
+\c@section@level=\count107
 )
 LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
@@ -332,17 +340,18 @@ LaTeX Info: Redefining \nameref on input line 22.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Info: Redefining \microtypecontext on input line 22.
-Package microtype Info: Generating PDF output.
+Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
@@ -439,6 +448,12 @@ Overfull \hbox (21.68123pt too wide) in paragraph at lines 69--72
 [] 
  []
 
+
+Overfull \hbox (86.00476pt too wide) in paragraph at lines 80--81
+\OT1/cmr/m/n/10 tion to en-able con-fer-enc-ing us-ing Real-time Trans-port Pro
+-to-col (RTP). [][][][] 
+ []
+
 Package marginnote Info: Margin note 1.7 is on absolute page 1
 (marginnote)              on input line 84.
 Package marginnote Info: right page because not two side mode on input line 84.
@@ -450,34 +465,55 @@ Overfull \hbox (21.68123pt too wide) in paragraph at lines 82--86
 [] 
  []
 
+
+Overfull \hbox (0.71463pt too wide) in paragraph at lines 82--86
+|[]\OT1/cmr/bx/n/10 Binomial and Fi-bonacci heaps in Racket\OT1/cmr/m/n/10 , fo
+r sub-mis-sion at [][][][] 
+ []
+
+
+Overfull \hbox (68.80083pt too wide) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/10 Benchmarked and com-pared with ex-ist-ing li-braries in Racke
+t. [][][][] 
+ []
+
+
+Overfull \hbox (152.55107pt too wide) in paragraph at lines 94--95
+[]\OT1/cmr/m/n/10 Collecting and an-a-lyz-ing pat-terns of pop-u-lar web-sites 
+and web-based ap-pli-ca-tions. [][][][] 
+ []
+
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.95 \end{itemize}
-                   \vspace*{2mm}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+l.100 	\item A
+              ssessed performances of different algorithms on complete graph...
+
+? 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@gooble' on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 95.
+(hyperref)                removing `\c@page' on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 95.
+(hyperref)                removing `\@gooble' on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 95.
+(hyperref)                removing `\c@page' on input line 100.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 95.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[1
 
 ]
+Overfull \hbox (73.13432pt too wide) in paragraph at lines 100--101
+[]\OT1/cmr/m/n/10 Assessed per-for-mances of dif-fer-ent al-go-rithms on com-pl
+ete graphs. [][][][] 
+ []
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -493,9 +529,9 @@ Overfull \hbox (21.68123pt too wide) in paragraph at lines 125--132
  []
 
 
-Overfull \hbox (5.66597pt too wide) in paragraph at lines 125--132
-\OT1/cmr/m/n/10 (-20) Analytical Per-for-mance Mod-el-ing & De-sign of Com-pute
-r Sys-tem (15-857) by []\OT1/cmtt/m/n/10 Mor Harchol-Balter[] 
+Overfull \hbox (11.81995pt too wide) in paragraph at lines 125--132
+\OT1/cmr/m/n/10 Analytical Per-for-mance Mod-el-ing & De-sign of Com-puter Sys-
+tem (15-857) by [][][][] 
  []
 
 Package marginnote Info: Margin note 2.2 is on absolute page 2
@@ -519,10 +555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--140
                    \hfil 
 l.140 \clearpage
                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@gooble' on input line 140.
@@ -539,12 +572,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\c@page' on input line 140.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \clearpage
-                 [2]
+[2]
 Package marginnote Info: Margin note 3.1 is on absolute page 3
 (marginnote)              on input line 143.
 Package marginnote Info: right page because not two side mode on input line 143
@@ -562,10 +590,7 @@ Overfull \hbox (21.68123pt too wide) in paragraph at lines 141--148
                    \hfil 
 l.148 \end{document}
                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@gooble' on input line 148.
@@ -582,40 +607,24 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\c@page' on input line 148.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.148 \end{document}
-                     [3
+[3
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 148.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 7326 strings out of 495031
- 112467 string characters out of 6181530
- 244155 words of memory out of 5000000
- 10456 multiletter control sequences out of 15000+600000
- 5915 words of font info for 36 fonts, out of 8000000 for 9000
+ 7333 strings out of 495032
+ 112782 string characters out of 6181556
+ 249271 words of memory out of 5000000
+ 10499 multiletter control sequences out of 15000+600000
+ 4769 words of font info for 18 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,8n,35p,339b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (3 pages, 98563 bytes).
-PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 6657 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 32i,8n,35p,339b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on resume.dvi (3 pages, 15360 bytes).
