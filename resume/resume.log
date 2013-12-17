@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2013.11.11)  5 DEC 2013 15:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2013.11.11)  17 DEC 2013 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,225 +406,226 @@ Package marginnote Info: right page because not two side mode on input line 45.
 Package marginnote Info: xpos seems to be 114.46576pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 45.
 Package marginnote Info: Margin note 1.4 is on absolute page 1
-(marginnote)              on input line 50.
-Package marginnote Info: right page because not two side mode on input line 50.
+(marginnote)              on input line 48.
+Package marginnote Info: right page because not two side mode on input line 48.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 50.
+(marginnote)             \marginnoteleftadjust ignored on input line 48.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--52
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
 [] 
  []
 
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--52
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
 [] 
  []
 
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--52
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 37--50
 [] 
  []
 
 Package marginnote Info: Margin note 1.5 is on absolute page 1
-(marginnote)              on input line 57.
-Package marginnote Info: right page because not two side mode on input line 57.
+(marginnote)              on input line 55.
+Package marginnote Info: right page because not two side mode on input line 55.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 57.
+(marginnote)             \marginnoteleftadjust ignored on input line 55.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 56--59
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 54--57
 [] 
  []
 
 Package marginnote Info: Margin note 1.6 is on absolute page 1
-(marginnote)              on input line 70.
-Package marginnote Info: right page because not two side mode on input line 70.
+(marginnote)              on input line 68.
+Package marginnote Info: right page because not two side mode on input line 68.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 70.
+(marginnote)             \marginnoteleftadjust ignored on input line 68.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 69--72
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 67--70
 [] 
  []
 
 
-Overfull \hbox (86.00476pt too wide) in paragraph at lines 80--81
+Overfull \hbox (86.00476pt too wide) in paragraph at lines 78--79
 \OT1/cmr/m/n/10 tion to en-able con-fer-enc-ing us-ing Real-time Trans-port Pro
 -to-col (RTP). [][][][] 
  []
 
 Package marginnote Info: Margin note 1.7 is on absolute page 1
-(marginnote)              on input line 84.
-Package marginnote Info: right page because not two side mode on input line 84.
+(marginnote)              on input line 82.
+Package marginnote Info: right page because not two side mode on input line 82.
 
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 84.
+(marginnote)             \marginnoteleftadjust ignored on input line 82.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 82--86
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 80--84
 [] 
  []
 
 
-Overfull \hbox (0.71463pt too wide) in paragraph at lines 82--86
+Overfull \hbox (0.71463pt too wide) in paragraph at lines 80--84
 |[]\OT1/cmr/bx/n/10 Binomial and Fi-bonacci heaps in Racket\OT1/cmr/m/n/10 , fo
 r sub-mis-sion at [][][][] 
  []
 
 
-Overfull \hbox (68.80083pt too wide) in paragraph at lines 88--89
+Overfull \hbox (68.80083pt too wide) in paragraph at lines 86--87
 []\OT1/cmr/m/n/10 Benchmarked and com-pared with ex-ist-ing li-braries in Racke
 t. [][][][] 
  []
 
 
-Overfull \hbox (152.55107pt too wide) in paragraph at lines 94--95
+Overfull \hbox (152.55107pt too wide) in paragraph at lines 92--93
 []\OT1/cmr/m/n/10 Collecting and an-a-lyz-ing pat-terns of pop-u-lar web-sites 
 and web-based ap-pli-ca-tions. [][][][] 
+ []
+
+
+Overfull \hbox (73.13432pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10 Assessed per-for-mances of dif-fer-ent al-go-rithms on com-pl
+ete graphs. [][][][] 
  []
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.100 	\item A
-              ssessed performances of different algorithms on complete graph...
+l.103 	\item D
+              eveloped a tool using Ruby on Rails to effectively track proce...
 
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 100.
+(hyperref)                removing `\@gooble' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 100.
+(hyperref)                removing `\c@page' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 100.
+(hyperref)                removing `\@gooble' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 100.
+(hyperref)                removing `\c@page' on input line 103.
 
 [1
 
 ]
-Overfull \hbox (73.13432pt too wide) in paragraph at lines 100--101
-[]\OT1/cmr/m/n/10 Assessed per-for-mances of dif-fer-ent al-go-rithms on com-pl
-ete graphs. [][][][] 
- []
-
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Package marginnote Info: Margin note 2.1 is on absolute page 2
-(marginnote)              on input line 127.
-Package marginnote Info: right page because not two side mode on input line 127
+(marginnote)              on input line 125.
+Package marginnote Info: right page because not two side mode on input line 125
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 127.
+(marginnote)             \marginnoteleftadjust ignored on input line 125.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 125--132
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 123--130
 [] 
  []
 
 
-Overfull \hbox (11.81995pt too wide) in paragraph at lines 125--132
+Overfull \hbox (11.81995pt too wide) in paragraph at lines 123--130
 \OT1/cmr/m/n/10 Analytical Per-for-mance Mod-el-ing & De-sign of Com-puter Sys-
 tem (15-857) by [][][][] 
  []
 
 Package marginnote Info: Margin note 2.2 is on absolute page 2
-(marginnote)              on input line 135.
-Package marginnote Info: right page because not two side mode on input line 135
+(marginnote)              on input line 133.
+Package marginnote Info: right page because not two side mode on input line 133
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 135.
+(marginnote)             \marginnoteleftadjust ignored on input line 133.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 133--140
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 131--138
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
+Underfull \hbox (badness 10000) in paragraph at lines 131--138
 
  []
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.140 \clearpage
+l.138 \clearpage
                 
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 140.
+(hyperref)                removing `\@gooble' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 140.
+(hyperref)                removing `\c@page' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 140.
+(hyperref)                removing `\@gooble' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 140.
+(hyperref)                removing `\c@page' on input line 138.
 
 [2]
 Package marginnote Info: Margin note 3.1 is on absolute page 3
-(marginnote)              on input line 143.
-Package marginnote Info: right page because not two side mode on input line 143
+(marginnote)              on input line 141.
+Package marginnote Info: right page because not two side mode on input line 141
 .
 Package marginnote Info: xpos seems to be 114.46576pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 143.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+(marginnote)             \marginnoteleftadjust ignored on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
 
-Overfull \hbox (21.68123pt too wide) in paragraph at lines 141--148
+Overfull \hbox (21.68123pt too wide) in paragraph at lines 139--146
 [] 
  []
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \hfil 
-l.148 \end{document}
+l.146 \end{document}
                     
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 148.
+(hyperref)                removing `\@gooble' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 148.
+(hyperref)                removing `\c@page' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@gooble' on input line 148.
+(hyperref)                removing `\@gooble' on input line 146.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 148.
+(hyperref)                removing `\c@page' on input line 146.
 
 [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 148.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
  ) 
 Here is how much of TeX's memory you used:
  7333 strings out of 495032
  112782 string characters out of 6181556
- 249271 words of memory out of 5000000
+ 250271 words of memory out of 5000000
  10499 multiletter control sequences out of 15000+600000
  4769 words of font info for 18 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,8n,35p,339b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,35p,339b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (3 pages, 15360 bytes).
+Output written on resume.dvi (3 pages, 15188 bytes).
